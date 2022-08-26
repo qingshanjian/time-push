@@ -5,18 +5,16 @@
 # 公众号appSecret，替换掉下方文字内容，不要删除双引号
 "app_secret": "2980c9a21f10cbbec6c172da5104c43e",
 # 模板消息id，替换掉下方文字内容，不要删除双引号
-"template_id": "tRZemJUOpNgyh3tBWeitIKlUf4lUEK4t0r7DSQzSA0Y",
+"template_id": "FbAWzoN5FGXYQUTgd0XqCqlMkPRcz3oCmuGW5zVoajk",
 # 接收公众号消息的微信号（user-id），如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["o0F575n_4tsW0mwKbG3x6qe485lA","o0F575hVC5OiPygTa17ojebFd5TI"],
 # 信息配置
 # 所在省份
-"province": "江苏",
+"province": "山东",
 # 所在城市
-"city": "南京",
+"city": "济宁",
 # 考研1，如果生日为农历，在最前面加上r即可，如r1999-01-01
 "birthday1": "2021-12-24",
-# 开学2，如果生日为农历，在最前面加上r即可，如r1999-01-01
-"birthday2": "2021-08-27",
 # 相识的日子，格式同上
 "love_date": "2022-05-04",
 
